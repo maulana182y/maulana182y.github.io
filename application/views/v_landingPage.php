@@ -285,7 +285,7 @@ lainnya yang didorong dengan kemampuan, keahlian dan pengalaman yang saya miliki
                   <!-- Portfolio Item 1 -->
                   <figure class="item" data-groups='["all", "media"]'>
                     <a class="ajax-page-load" href="<?= base_url() ?>portfolio">
-                      <img src="<?= base_url() ?>template/tema1/images/portfolio/jobdesk/spv1nn.jpg" alt="">
+                      <img src="<?= base_url() ?>template/tema1/images/portfolio/jobdesk-it-spv.png" alt="">
                       <div>
                         <h5 class="name">Jobdesk IT Spv</h5>
                         <small>Media</small>
@@ -298,9 +298,22 @@ lainnya yang didorong dengan kemampuan, keahlian dan pengalaman yang saya miliki
                   <!-- Portfolio Item 1 -->
                   <figure class="item" data-groups='["all", "media"]'>
                     <a class="ajax-page-load" href="<?= base_url() ?>portfolio/staff">
-                      <img src="<?= base_url() ?>template/tema1/images/portfolio/jobdesk/staff1n.jpg" alt="">
+                      <img src="<?= base_url() ?>template/tema1/images/portfolio/jobdesk-it-staff.png" alt="">
                       <div>
                         <h5 class="name">Jobdesk IT Staff</h5>
+                        <small>Media</small>
+                        <i class="fa fa-file-text-o"></i>
+                      </div>
+                    </a>
+                  </figure>
+                  <!-- /Portfolio Item 1 -->
+                  
+                  <!-- Portfolio Item 1 -->
+                  <figure class="item" data-groups='["all", "media"]'>
+                    <a class="ajax-page-load" href="<?= base_url() ?>portfolio/training">
+                      <img src="<?= base_url() ?>template/tema1/images/portfolio/training.png" alt="">
+                      <div>
+                        <h5 class="name">Training</h5>
                         <small>Media</small>
                         <i class="fa fa-file-text-o"></i>
                       </div>
@@ -311,7 +324,7 @@ lainnya yang didorong dengan kemampuan, keahlian dan pengalaman yang saya miliki
                   <!-- Portfolio Item 1 -->
                   <figure class="item" data-groups='["all", "media"]'>
                     <a class="ajax-page-load" href="<?= base_url() ?>portfolio/kdsv">
-                      <img src="<?= base_url() ?>template/tema1/images/portfolio/kriteria/kd sv1nn.jpg" alt="">
+                      <img src="<?= base_url() ?>template/tema1/images/portfolio/kriteria-dasar-supervisor.png" alt="">
                       <div>
                         <h5 class="name">Kriteria Dasar Supervisor</h5>
                         <small>Media</small>
@@ -323,8 +336,21 @@ lainnya yang didorong dengan kemampuan, keahlian dan pengalaman yang saya miliki
                   
                   <!-- Portfolio Item 1 -->
                   <figure class="item" data-groups='["all", "media"]'>
+                    <a class="ajax-page-load" href="<?= base_url() ?>portfolio/penilaian">
+                      <img src="<?= base_url() ?>template/tema1/images/portfolio/penilaian-kinerja.png" alt="">
+                      <div>
+                        <h5 class="name">Penilaian Kinerja</h5>
+                        <small>Media</small>
+                        <i class="fa fa-file-text-o"></i>
+                      </div>
+                    </a>
+                  </figure>
+                  <!-- /Portfolio Item 1 -->
+                  
+                  <!-- Portfolio Item 1 -->
+                  <figure class="item" data-groups='["all", "media"]'>
                     <a class="ajax-page-load" href="<?= base_url() ?>portfolio/ser">
-                      <img src="<?= base_url() ?>template/tema1/images/portfolio/sertifikasi/ser1.jpeg" alt="">
+                      <img src="<?= base_url() ?>template/tema1/images/portfolio/pelatihan.png" alt="">
                       <div>
                         <h5 class="name"> Pelatihan</h5>
                         <!-- <small>Media</small> -->
@@ -337,7 +363,7 @@ lainnya yang didorong dengan kemampuan, keahlian dan pengalaman yang saya miliki
                   <!-- Portfolio Item 1 -->
                   <figure class="item" data-groups='["all", "media"]'>
                     <a class="ajax-page-load" href="<?= base_url() ?>portfolio/standar">
-                      <img src="<?= base_url() ?>template/tema1/images/portfolio/sop/sop_penilaianTahun1.jpg" alt="">
+                      <img src="<?= base_url() ?>template/tema1/images/portfolio/sop (1).png" alt="">
                       <div>
                         <h5 class="name"> SOP</h5>
                         <!-- <small>Media</small> -->
@@ -350,7 +376,7 @@ lainnya yang didorong dengan kemampuan, keahlian dan pengalaman yang saya miliki
                   <!-- Portfolio Item 1 -->
                   <figure class="item" data-groups='["all", "media"]'>
                     <a class="ajax-page-load" href="<?= base_url() ?>portfolio/kdsrstaff">
-                      <img src="<?= base_url() ?>template/tema1/images/portfolio/kriteria/kd sr1n.jpg" alt="">
+                      <img src="<?= base_url() ?>template/tema1/images/portfolio/kriteria-dasar-senior-staff.png" alt="">
                       <div>
                         <h5 class="name">Kriteria Dasar Senior Staff</h5>
                         <small>Media</small>
@@ -366,7 +392,7 @@ lainnya yang didorong dengan kemampuan, keahlian dan pengalaman yang saya miliki
                   <!-- Portfolio Item 5 -->
                   <figure class="item" data-groups='["all", "illustration"]'>
                     <a href="<?= base_url() ?>template/tema1/images/portfolio/youtube.jpg" class="lightbox" title="Filosofi Pekerjaan">
-                      <img src="<?= base_url() ?>template/tema1/images/portfolio/youtube.jpg" alt="">
+                      <img src="<?= base_url() ?>template/tema1/images/portfolio/youtube.png" alt="">
                       <div>
                         <h5 class="name">Youtube</h5>
                         <!-- <small>Illustration</small> -->
@@ -378,7 +404,7 @@ lainnya yang didorong dengan kemampuan, keahlian dan pengalaman yang saya miliki
                   <!-- Portfolio Item 5 -->
                   <figure class="item" data-groups='["all", "illustration"]'>
                     <a href="<?= base_url() ?>template/tema1/images/portfolio/filosofi1.jpg" class="lightbox" title="Filosofi Pekerjaan">
-                      <img src="<?= base_url() ?>template/tema1/images/portfolio/filosofi1.jpg" alt="">
+                      <img src="<?= base_url() ?>template/tema1/images/portfolio/filosofi-pekerjaan.png" alt="">
                       <div>
                         <h5 class="name">Filosofi Pekerjaan</h5>
                         <!-- <small>Illustration</small> -->

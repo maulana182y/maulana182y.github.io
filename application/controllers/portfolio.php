@@ -39,4 +39,14 @@ class Portfolio extends CI_Controller {
         // echo 'berhasil';
         $this->load->view('v_sop');
     }
+    public function training()
+    {
+        // echo 'berhasil';
+        $this->load->view('v_train');
+    }
+    public function penilaian()
+    {
+        // echo 'berhasil';
+        $this->load->view('v_penilaian');
+    }
 }
